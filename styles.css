@@ -1,0 +1,28 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: "Times New Roman", sans-serif;
+}
+
+a {
+    font-style:italic;
+    background-color: darkgreen;
+    color: white;
+    font-weight: bold;
+}
+
+#medium {
+    background-color: yellow;
+    color: black;
+}
+
+#hard {
+    background-color: darkred;
+    color: white;
+}
+
+h2 {
+    font-weight: bold;
+    background-color: darkgreen;
+    color: white;
+}
